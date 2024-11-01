@@ -24,7 +24,7 @@ public class AtividadeHashSet2 {
 		valores.add(10);
 		valores.add(6);
 
-		System.out.println("Digite o número ue você deseja encontrar: ");
+		System.out.println("Digite o número que você deseja encontrar: ");
 		System.out.printf("Número: ");
 		valor = scanner.nextInt();
 
